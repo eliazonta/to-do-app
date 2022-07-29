@@ -2,7 +2,7 @@
 
 ## View [here](https://eliazonta.github.io/to-do-app/)
 
-This project is powered by  with [React](https://reactjs.org)
+This project is powered by [React.js](https://reactjs.org)
 
 ## Run the project locally
 1. clone the repo
