@@ -36,7 +36,9 @@ form input {
 }
 .input_container {
   margin-bottom: 20px;
+
 }
+
 .btn_container {
   text-align: center;
   margin-bottom: 10px;
@@ -92,7 +94,7 @@ form input {
   font-size: 35px;
 }
 .button-complete {
-  color: #95faa3;
+  color: #1AE75B;
   margin-right: 10px;
 }
 .button-edit {
@@ -100,11 +102,11 @@ form input {
   margin-right: 10px;
 }
 .button-delete {
-  color: rgb(255, 122, 98);
+  color: #F1495D;
 }
 @media screen and (max-width: 667px) {
   .task_container {
-    width: 90%;
+    width: 100%;
   }
   .task {
     margin-right: 0px;
