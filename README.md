@@ -1,6 +1,6 @@
 # To-Do app with React.js and Firebase & MaterialUI
 
-View [here](https://eliazonta.github.io/to-do-app/)
+## View [here](https://eliazonta.github.io/to-do-app/)
 
 This project is powered by  with [React](https://reactjs.org)
 
