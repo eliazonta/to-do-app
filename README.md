@@ -2,7 +2,7 @@
 
 ## View [here](https://eliazonta.github.io/to-do-app/)
 
-This project is powered by [React.js](https://reactjs.org)
+This project is powered by [React.js](https://reactjs.org) & [Firebase](https://firebase.google.com) + [Material UI](https://mui.com)
 
 ## Run the project locally
 1. clone the repo
