@@ -4,6 +4,9 @@
 
 This project is powered by [React.js](https://reactjs.org) & [Firebase](https://firebase.google.com) + [Material UI](https://mui.com)
 
+## Preview
+
+![](assets/screen1.png)
 ## Run the project locally
 1. clone the repo
 2. open the terminal and navigate to che cloned directory
